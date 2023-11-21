@@ -1,4 +1,4 @@
-<img src="/docs/fjlogo.png" alt="Flow Jam Logo" />
+<img src="/docs/fjlogo.png" alt="Flow Jam Logo" width="128" height="128" />
 
 # Flow Jam
 
