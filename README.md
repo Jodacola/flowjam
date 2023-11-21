@@ -14,22 +14,22 @@ Flow Jam is a little Python toy I hacked together in an evening that provides so
 
 ## How do I get started?
 1. `pip install -r requirements.txt`
-2. `python app.rb`
+2. `python app.py`
 3. Start typing anywhere.
 
-There are a few command-line arguments you can provide. Take a look at them by running `python app.rb -h`, or:
+There are a few command-line arguments you can provide. Take a look at them by running `python app.py -h`, or:
 
 `-t, --threshold`
-*Default: 300*
-Number of events to trigger to reach the maximum level, within the falloff period
+* *Default: 300*
+* Number of events to trigger to reach the maximum level, within the falloff period
 
 `-f, --falloff`
-*Default: 2*
-Number of minutes in the falloff period
+* *Default: 2*
+* Number of minutes in the falloff period
 
 `-j, --jamspath`
-*Default: jam_library*
-The path which is searched to find jam manifests
+* *Default: jam_library*
+* The path which is searched to find jam manifests
 
 I encourage playing around with the thresholds and falloff to find something that works well for your typing speed and patterns.
 
