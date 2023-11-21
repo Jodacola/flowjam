@@ -1,0 +1,17 @@
+{
+    "name": "Sample Flow Jam",
+    "levels": [
+        {
+            "file": "flow_jam_level_1.wav"
+        },
+        {
+            "file": "flow_jam_level_2.wav"
+        },
+        {
+            "file": "flow_jam_level_3.wav"
+        },
+        {
+            "file": "flow_jam_level_4.wav"
+        }
+    ]
+}
